@@ -1,0 +1,5 @@
+streamlit
+docx2pdf
+pdf2docx
+pywin32
+pandas
